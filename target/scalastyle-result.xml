@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="5.0">
- <file name="/home/knoldus/SCALAASSIGNMENT02-2/src/main/scala/edu/knoldus/Person.scala">
-  <error column="13" line="39" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
-  <error column="13" line="44" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
-  <error column="17" line="45" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
-  <error column="21" line="45" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
- </file>
-</checkstyle>
